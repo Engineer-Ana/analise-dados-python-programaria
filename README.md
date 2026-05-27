@@ -21,3 +21,5 @@ Registrar minha evolução nos estudos de análise de dados e organizar os exerc
 - Google Colab
 - Pandas
 - Matplotlib
+- DBeavor
+- Google Data Studio/Loocker
